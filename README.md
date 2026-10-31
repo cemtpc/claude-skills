@@ -9,6 +9,7 @@ Claude Code skill'leri. `.claude/skills/` altındadır; bu depoyla açılan her 
 | Remotion | https://github.com/remotion-dev/skills | `remotion-*` (12 skill) |
 | HyperFrames | https://github.com/heygen-com/hyperframes | `hyperframes`, `hyperframes-cli`, `hyperframes-registry`, `media-use`, `figma`, `slideshow`, `remotion-to-hyperframes`, `reverse-any-video` |
 | FFmpeg | https://github.com/kajisho5/ffmpeg-skill | `ffmpeg-skill` |
+| Video Edit (Instagram Reels) | https://github.com/tenfoldmarc/video-edit-skill | `video-edit` |
 
 ### OpenMontage
 
