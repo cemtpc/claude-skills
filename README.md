@@ -12,6 +12,7 @@ Claude Code skill'leri. `.claude/skills/` altındadır; bu depoyla açılan her 
 | Video Edit (Instagram Reels) | https://github.com/tenfoldmarc/video-edit-skill | `video-edit` |
 | Vertical Video Editing (9:16 shorts) | https://github.com/nopefallacy/vertical-video-editing-skills | `video-editing` |
 | Story Skills (hikaye/roman yazımı) | https://github.com/danjdewhurst/story-skills | `story-init`, `premise-workshop`, `plot-structure`, `chapter-writing`, `character-management`, `worldbuilding` ve diğerleri (24 skill) |
+| Drama Skills (dikey kısa dizi) | https://github.com/zenstory-ai/drama-skills | `short-drama` (ana skill) ve `short-drama-*` (10 skill) |
 
 ### OpenMontage
 
