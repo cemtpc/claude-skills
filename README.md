@@ -4,7 +4,10 @@ Claude Code skill'leri. `.claude/skills/` altındadır; bu depoyla açılan her 
 
 ## Komutlar
 
-- `/araştır <video linki>` — videoyu ve konusunu araştırır, Türkçe rapor çıkarır (`arastir` skill'i)
+- `/araştır <video linki>` — yalnızca o videoyu analiz eder
+- `/araştır kanalı araştır <kanal>` — yalnızca o kanalı araştırır
+- `/araştır konuyu araştır <konu>` — o konudaki kanalları ve videoları araştırır
+- `/araştır script araştır <konu veya link>` — senaryo, hikâyeleştirme ve dramatizasyon teknikleri
 - `/edit` — üretim pipeline'ını başlatır (pipeline henüz tanımlanmadı)
 
 Ücretli her işlemden önce onay alınır (bkz. `CLAUDE.md`).

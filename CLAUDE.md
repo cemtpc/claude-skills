@@ -4,7 +4,11 @@ Kullanıcıyla Türkçe konuş.
 
 ## Komutlar
 
-- `/araştır <video linki>` (veya `/arastir`): `arastir` skill'ini çalıştır. Linkteki videoyu ve konusunu araştırma skill'leriyle araştır.
+- `/araştır` (veya `/arastir`): `arastir` skill'ini çalıştır. Dört mod:
+  - **Video linki** → yalnızca o videoyu analiz et. Başka video/kanal arama, scout çalıştırma.
+  - **"kanalı araştır"** → yalnızca o kanalı araştır. Başka kanal arama.
+  - **"konuyu araştır"** → o konudaki kanalları ve videoları araştır (scout).
+  - **"script araştır"** → senaryo teknikleri, hikâyeleştirme ve dramatizasyon üzerine odaklan.
 - `/edit`: `edit` skill'ini çalıştır. Kullanıcının tanımladığı üretim pipeline'ı üzerinden üretime başla.
 
 ## Ücretli işlemler — her seferinde onay al
