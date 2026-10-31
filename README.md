@@ -2,6 +2,13 @@
 
 Claude Code skill'leri. `.claude/skills/` altındadır; bu depoyla açılan her Claude Code oturumunda otomatik yüklenir.
 
+## Komutlar
+
+- `/araştır <video linki>` — videoyu ve konusunu araştırır, Türkçe rapor çıkarır (`arastir` skill'i)
+- `/edit` — üretim pipeline'ını başlatır (pipeline henüz tanımlanmadı)
+
+Ücretli her işlemden önce onay alınır (bkz. `CLAUDE.md`).
+
 ## Skill'ler
 
 | Paket | Kaynak | Skill'ler |
