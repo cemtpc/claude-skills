@@ -10,6 +10,7 @@ Claude Code skill'leri. `.claude/skills/` altındadır; bu depoyla açılan her 
 | HyperFrames | https://github.com/heygen-com/hyperframes | `hyperframes`, `hyperframes-cli`, `hyperframes-registry`, `media-use`, `figma`, `slideshow`, `remotion-to-hyperframes`, `reverse-any-video` |
 | FFmpeg | https://github.com/kajisho5/ffmpeg-skill | `ffmpeg-skill` |
 | Video Edit (Instagram Reels) | https://github.com/tenfoldmarc/video-edit-skill | `video-edit` |
+| Vertical Video Editing (9:16 shorts) | https://github.com/nopefallacy/vertical-video-editing-skills | `video-editing` |
 
 ### OpenMontage
 
@@ -27,5 +28,6 @@ Sonra Claude Code'u o klasörde açın.
 - ffmpeg 6.1+ (`brew install ffmpeg`)
 - Node.js 20+ (`brew install node`) — Remotion ve HyperFrames
 - Python 3.11+ (`brew install python@3.12`)
+- yt-dlp — video indirme (`brew install yt-dlp`)
 
 Not: Remotion ticari kullanımda şirketler için lisans gerektirebilir. Her paketin lisansı kendi kaynak deposundadır (`licenses/` klasörüne bakın).
