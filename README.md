@@ -34,3 +34,11 @@ Sonra Claude Code'u o klasörde açın.
 - yt-dlp — video indirme (`brew install yt-dlp`)
 
 Not: Remotion ticari kullanımda şirketler için lisans gerektirebilir. Her paketin lisansı kendi kaynak deposundadır (`licenses/` klasörüne bakın).
+
+## MCP sunucuları
+
+`.mcp.json` dosyasında tanımlıdır; bu depoyla açılan oturumda otomatik başlar (ilk seferde onay istenir).
+
+| Sunucu | Kaynak | Ne yapar | Gereken |
+|---|---|---|---|
+| `youtube-transcript` | https://github.com/jkawamoto/mcp-youtube-transcript | YouTube videolarının altyazı/metnini çeker | `uv` (`brew install uv`) |
